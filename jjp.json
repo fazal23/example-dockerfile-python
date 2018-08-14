@@ -1,5 +1,5 @@
 {
-    "family": "main",
+    "family": "jjp",
     "containerDefinitions": [
         {
             "image": "fazal23/ecs_demo:v_%BUILD_NUMBER%",
