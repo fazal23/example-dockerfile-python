@@ -2,7 +2,7 @@
     "family": "main",
     "containerDefinitions": [
         {
-            "image": "fazal23/demo:v_$BUILD_NUMBER",
+            "image": "fazal23/ecs_demo:v_%BUILD_NUMBER%",
             "name": "flask-signup",
             "cpu": 10,
             "memory": 256,
